@@ -28,9 +28,3 @@ Visualize COVID-19 data to understand global trends in infections, deaths, and p
 6. Project Connection
 This dashboard is built using data analyzed in the SQL project:  
 
-
-
----
-
-## 📌 Conclusion
-This project demonstrates the ability to transform raw data into meaningful visual insights, enabling better understanding of global pandemic trends.
