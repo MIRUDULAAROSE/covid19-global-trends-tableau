@@ -26,5 +26,6 @@ Visualize COVID-19 data to understand global trends in infections, deaths, and p
 - The United States showed one of the highest infection percentages globally  
 
 6. Project Connection
-This dashboard is built using data analyzed in the SQL project:  
+This dashboard is built using data analyzed in the SQL project:
+covid19-sql-analysis 
 
